@@ -1,0 +1,18 @@
+body{
+    background-color: lightcoral;
+}
+
+
+.container {
+    display:flex;
+    height: 12rem;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.text{
+    font-family: sans-serif;
+    color: crimson;
+}
